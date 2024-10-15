@@ -1,5 +1,5 @@
+<img src="https://www.uvic.cat/sites/default/files/logo_3linies_uvic_color.jpg" alt="UVic Logo" width="200"/>
 
-![Python Logo](https://www.uvic.cat/sites/default/files/logo_3linies_uvic_color.jpg)
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-JupyterNotebook-F37626?style=flat-square&logo=jupyter&logoColor=black" />
 
 # SINGLE CELL COMPUTATIONAL TOOLS COMPARISON TO DETECT EPITHELIAL TUMORAL CELLS 
