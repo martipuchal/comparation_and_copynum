@@ -7,8 +7,7 @@
 
 ## Repository of single-cell analysis 
 
-As to main tools to analyse the single cell data we have Seurat wich uses R to process the data and in python we have Scanpy. With personal interset in python
-
+Single-cell RNA sequencing offers a unique view of the transcriptome. With a lot of different applications on this project, we have the objective of identifying the different cell types and tumoral cells on all the datasets with the Python tool to process single-cell RNA sequencing data, Scanpy. The VHIO’s bioinformatics team has performed the same analysis, but with Seurat, the equivalent tool from R, another programming language. Another objective of this project is to compare the two more commonly used packages to analyze this data with both pipelines in order to find the most efficient way to work with single-cell data.
  
 
 
